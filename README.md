@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vishxuuuuu
+- 👋 Hi, I’m @Vishnu Mahesh Kantam
 - 👀 I’m interested in UI/UX,WEBDESIGN,FRONTEND.
 - 🌱 I’m currently learning WEB DEVELOPMENT,UI/UX.
 - 💞️ I’m looking to collaborate on ...
